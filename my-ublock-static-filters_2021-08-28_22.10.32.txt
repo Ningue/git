@@ -1,0 +1,1017 @@
+!Fix Google Analytics WebPage
+@@||google-analytics.com^
+@@||*$domain=analytics.google.com
+
+! 2021/3/4 下午4:11:57 https://www.zhihu.com/
+www.zhihu.com##.GlobalWrite-navTop
+
+! 2021/3/4 下午4:12:01 https://www.zhihu.com/
+www.zhihu.com##.GlobalSideBar--old.GlobalSideBar > div > .Sticky
+
+! 2021/3/4 下午4:12:20 https://www.zhihu.com/question/447436835/answer/1760845301
+www.zhihu.com##.AdblockBanner
+
+! 2021/3/4 下午4:16:16 https://cn.bing.com/search?q=bing&form=ANNTH1&refig=c41adb21dd0f48c29f0bc615ff49ddf0&mkt=zh-cn&sp=-1&pq=bing&sc=8-4&qs=n&sk=&cvid=5e6e852a86a14edfbc617ed96e212e75
+cn.bing.com##.b_ans
+
+! 2021/3/4 下午4:16:22 https://cn.bing.com/search?q=bing&form=ANNTH1&refig=c41adb21dd0f48c29f0bc615ff49ddf0&mkt=zh-cn&sp=-1&pq=bing&sc=8-4&qs=n&sk=&cvid=5e6e852a86a14edfbc617ed96e212e75
+cn.bing.com##.b_canvas.b_msg
+
+! 2021/3/4 下午4:16:25 https://cn.bing.com/search?q=bing&form=ANNTH1&refig=c41adb21dd0f48c29f0bc615ff49ddf0&mkt=zh-cn&sp=-1&pq=bing&sc=8-4&qs=n&sk=&cvid=5e6e852a86a14edfbc617ed96e212e75
+cn.bing.com###b_footerItems
+
+! 2021/3/4 下午4:34:04 https://cn.bing.com/search?q=csdn&form=ANSPH1&refig=4f74fe84479048aaa30bb780472bf764&mkt=zh-cn&pc=U531&sp=-1&pq=csdn&sc=8-4&qs=n&sk=&cvid=4f74fe84479048aaa30bb780472bf764
+cn.bing.com##.b_algo:nth-of-type(2) > .sb_adTA.sb_add > .b_caption > .b_attribution
+
+! 2021/3/4 下午4:34:11 https://cn.bing.com/search?q=csdn&form=ANSPH1&refig=4f74fe84479048aaa30bb780472bf764&mkt=zh-cn&pc=U531&sp=-1&pq=csdn&sc=8-4&qs=n&sk=&cvid=4f74fe84479048aaa30bb780472bf764
+cn.bing.com##.b_algo:nth-of-type(2) > .sb_adTA.sb_add > .b_caption > .sb_addesc
+
+! 2021/3/4 下午4:37:10 https://blog.csdn.net/weixin_42232219/article/details/90206227?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161484211116780266286160%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=161484211116780266286160&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-90206227.pc_search_result_before_js&utm_term=python%E7%88%AC%E8%99%AB
+blog.csdn.net##.csdn-side-toolbar
+
+! 2021/3/4 下午4:37:22 https://blog.csdn.net/weixin_42232219/article/details/90206227?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161484211116780266286160%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=161484211116780266286160&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-90206227.pc_search_result_before_js&utm_term=python%E7%88%AC%E8%99%AB
+blog.csdn.net###copyright-box
+
+! 2021/3/4 下午4:37:25 https://blog.csdn.net/weixin_42232219/article/details/90206227?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161484211116780266286160%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=161484211116780266286160&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-90206227.pc_search_result_before_js&utm_term=python%E7%88%AC%E8%99%AB
+blog.csdn.net##.template-box
+
+! 2021/3/4 下午8:10:59 https://i.csdn.net/#/user-center/collection-list?type=1&folder=5092744&key=5
+||img-bss.csdn.net/1614566662152.png$image
+
+! 2021/3/4 下午8:11:02 https://i.csdn.net/#/user-center/collection-list?type=1&folder=5092744&key=5
+i.csdn.net##.toolbar-advert-default > div
+
+! 2021/3/4 下午8:11:05 https://i.csdn.net/#/user-center/collection-list?type=1&folder=5092744&key=5
+i.csdn.net##.toolbar-advert-default
+
+! 2021/3/4 下午8:11:46 https://www.csdn.net/
+www.csdn.net##.home_wrap
+
+! 2021/3/4 下午8:11:55 https://www.csdn.net/
+www.csdn.net###csdn-copyright-footer
+
+! 2021/3/4 下午8:11:59 https://www.csdn.net/
+www.csdn.net##.list-group > span
+
+! 2021/3/4 下午8:12:02 https://www.csdn.net/
+||csdnimg.cn/release/cmsfe/public/img/monkey@3x.bbd2a257.png$image
+
+! 2021/3/4 下午8:12:14 https://www.csdn.net/
+www.csdn.net##.list-box
+
+! 2021/3/4 下午8:12:28 https://www.csdn.net/
+www.csdn.net##.top-hand
+
+! 2021/3/4 下午8:12:52 https://www.csdn.net/
+www.csdn.net##.csdn-toolbar-fl.toolbar-menus
+
+! 2021/3/4 下午8:13:01 https://www.csdn.net/
+www.csdn.net##.toolbar-subMenu-box.csdn-toolbar-fl.toolbar-btn-write.toolbar-btn > a[href^="https://mp.csdn.net"]
+
+! 2021/3/4 下午8:13:08 https://www.csdn.net/
+www.csdn.net###toolbar-remind
+
+! 2021/3/4 下午8:13:53 https://i.csdn.net/#/user-center/collection-list?type=1&folder=5092744&key=5
+i.csdn.net##.csdn-toolbar-fl.toolbar-menus
+
+! 2021/3/4 下午8:14:02 https://i.csdn.net/#/user-center/collection-list?type=1&folder=5092744&key=5
+i.csdn.net###toolbar-remind
+
+! 2021/3/4 下午8:14:05 https://i.csdn.net/#/user-center/collection-list?type=1&folder=5092744&key=5
+i.csdn.net##.toolbar-subMenu-box.csdn-toolbar-fl.toolbar-btn-write.toolbar-btn > a[href^="https://mp.csdn.net"]
+
+! 2021/3/4 下午8:14:11 https://i.csdn.net/#/user-center/collection-list?type=1&folder=5092744&key=5
+||img-home.csdnimg.cn/images/20201124032511.png$image
+
+! 2021/3/4 下午8:14:30 https://so.csdn.net/so/search/all?q=%E5%BA%93%E5%85%8B%E8%8E%B78%E4%BA%BF%E5%B9%B4%E7%BB%88%E5%A5%96&t=all&p=1&s=0&tm=0&lv=-1&ft=0&l=&u=
+so.csdn.net##.csdn-toolbar-fl.toolbar-menus
+
+! 2021/3/4 下午8:14:36 https://so.csdn.net/so/search/all?q=%E5%BA%93%E5%85%8B%E8%8E%B78%E4%BA%BF%E5%B9%B4%E7%BB%88%E5%A5%96&t=all&p=1&s=0&tm=0&lv=-1&ft=0&l=&u=
+||img-home.csdnimg.cn/images/20201124032511.png$image
+
+! 2021/3/4 下午8:14:40 https://so.csdn.net/so/search/all?q=%E5%BA%93%E5%85%8B%E8%8E%B78%E4%BA%BF%E5%B9%B4%E7%BB%88%E5%A5%96&t=all&p=1&s=0&tm=0&lv=-1&ft=0&l=&u=
+so.csdn.net##.toolbar-subMenu-box.csdn-toolbar-fl.toolbar-btn-write.toolbar-btn > a[href^="https://mp.csdn.net"]
+
+! 2021/3/4 下午8:14:43 https://so.csdn.net/so/search/all?q=%E5%BA%93%E5%85%8B%E8%8E%B78%E4%BA%BF%E5%B9%B4%E7%BB%88%E5%A5%96&t=all&p=1&s=0&tm=0&lv=-1&ft=0&l=&u=
+so.csdn.net###toolbar-remind
+
+! 2021/3/4 下午8:14:54 https://so.csdn.net/so/search/all?q=%E5%BA%93%E5%85%8B%E8%8E%B78%E4%BA%BF%E5%B9%B4%E7%BB%88%E5%A5%96&t=all&p=1&s=0&tm=0&lv=-1&ft=0&l=&u=
+so.csdn.net##.so-cont-right
+
+! 2021/3/4 下午8:14:58 https://so.csdn.net/so/search/all?q=%E5%BA%93%E5%85%8B%E8%8E%B78%E4%BA%BF%E5%B9%B4%E7%BB%88%E5%A5%96&t=all&p=1&s=0&tm=0&lv=-1&ft=0&l=&u=
+so.csdn.net##.wrap-hot
+
+! 2021/3/4 下午8:15:12 https://so.csdn.net/so/search/all?q=%E5%BA%93%E5%85%8B%E8%8E%B78%E4%BA%BF%E5%B9%B4%E7%BB%88%E5%A5%96&t=all&p=1&s=0&tm=0&lv=-1&ft=0&l=&u=
+||img-home.csdnimg.cn/images/20201124032511.png$image
+
+! 2021/3/4 下午8:15:20 https://www.csdn.net/
+||img-home.csdnimg.cn/images/20201124032511.png$image
+
+! 2021/3/4 下午8:15:48 https://i.csdn.net/#/user-center/collection-list?type=1&folder=5092744&key=5
+i.csdn.net##.dragTipBox
+
+! 2021/3/5 上午11:39:15 https://zhidao.baidu.com/question/100517001.html
+||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
+
+! 2021/3/5 上午11:42:11 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.wgt-header-title-shadow.wgt-header-title
+
+! 2021/3/5 上午11:42:32 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.clearfix.search-block
+
+! 2021/3/5 上午11:42:36 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com###search-box
+
+! 2021/3/5 上午11:42:45 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.line.nav-menu
+
+! 2021/3/5 上午11:42:49 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.nav-show-control
+
+! 2021/3/5 上午11:42:54 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com###answer-bar
+
+! 2021/3/5 上午11:43:05 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.question-number-text-chain
+
+! 2021/3/5 上午11:43:10 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.cms-link-title
+
+! 2021/3/5 上午11:43:16 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.mod-noshadow.cms-slide-lazy.cms-slide
+
+! 2021/3/5 上午11:43:33 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.aside-list > li:nth-of-type(1)
+
+! 2021/3/5 上午11:43:50 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.wgt-footer-new
+
+! 2021/3/5 上午11:43:57 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com###wgt-related
+
+! 2021/3/5 上午11:44:00 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com###show-answer-hide
+
+! 2021/3/5 上午11:44:07 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com###show-hide-container
+
+! 2021/3/5 上午11:44:12 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.bd-wrap > .bottom-dashed-line
+
+! 2021/3/5 上午11:44:20 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com###answer-3076072598 > .bottom-dashed-line
+
+! 2021/3/5 上午11:44:25 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.ad-leftdown-icon.iknow-qb_home_icons
+
+! 2021/3/5 上午11:44:35 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.earn-points-exchange-gifts-bubble
+
+! 2021/3/5 上午11:44:38 https://zhidao.baidu.com/question/100517001.html
+||iknowpc.bdimg.com/static/common/widget/task/img/entrance-expand.8e1816a.png$image
+
+! 2021/3/5 上午11:44:44 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.earn-points-exchange-gifts-bubble
+
+! 2021/3/5 上午11:44:47 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.task-list-button
+
+! 2021/3/5 上午11:44:52 https://zhidao.baidu.com/question/100517001.html
+||iknowpc.bdimg.com/static/common/widget/js/logic/jump-top/img/icon-top-gray.b892499.png?__sprite$image
+
+! 2021/3/5 上午11:44:55 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.jump-top > a[href="#"]
+
+! 2021/3/5 上午11:44:59 https://zhidao.baidu.com/question/100517001.html
+||iknowpc.bdimg.com/static/common/widget/js/logic/jump-top/img/pgcApplyGuide.004403c.png$image
+
+! 2021/3/5 上午11:45:02 https://zhidao.baidu.com/question/100517001.html
+zhidao.baidu.com##.jump-goto-star
+
+! 2021/3/5 上午11:49:37 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+||wkstatic.bdimg.com/static/ndpcwenku/static/ndview/img/bar-bg.861f658548b93912f3dccb3f8cfcce82.png$image
+
+! 2021/3/5 上午11:49:41 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+||wkstatic.bdimg.com/static/ndpcwenku/static/ndview/img/go-btn.bb1cb5681ce6457850ba9c3b30cd3c3a.png$image
+
+! 2021/3/5 上午11:49:49 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.sidebar-wrapper
+
+! 2021/3/5 上午11:52:05 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+||wkstatic.bdimg.com/static/ndpcwenku/static/ndview/img/theme-entrance.911bb072388c58cc8ab15407cc441190.png$image
+
+! 2021/3/5 上午11:52:10 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com###color-plate
+
+! 2021/3/5 上午11:52:16 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.sider-edge.fix-block.relative-course-wrapper
+
+! 2021/3/5 上午11:52:25 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.fade-in.tool-bar-wrapper
+
+! 2021/3/5 上午11:52:31 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com###right-wrapper-id
+
+! 2021/3/5 上午11:52:39 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.search-box-inner-wrapper
+
+! 2021/3/5 上午11:52:42 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.small-flow-1.search-box-wrapper
+
+! 2021/3/5 上午11:52:46 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.new-header.no-full-screen.header-wrapper
+
+! 2021/3/5 上午11:52:52 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.topbar-container
+
+! 2021/3/5 上午11:52:58 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.reader-topbar
+
+! 2021/3/5 上午11:53:12 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.doc-btns-wrap
+
+! 2021/3/5 上午11:53:18 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.doc-info-wrapper
+
+! 2021/3/5 上午11:53:29 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.tip-text
+
+! 2021/3/5 上午11:54:54 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.propagation-wrapper
+
+! 2021/3/5 上午11:54:57 https://wenku.baidu.com/view/ea1ec9ea102de2bd96058837.html
+wenku.baidu.com##.footer
+
+! 2021/3/5 下午8:14:26 https://www.runoob.com/linux/linux-system-contents.html
+www.runoob.com##.feedback-btn-gray.feedback-btn:nth-of-type(2)
+
+! 2021/3/5 下午8:14:29 https://www.runoob.com/linux/linux-system-contents.html
+www.runoob.com##.feedback-btn-gray.feedback-btn:nth-of-type(1)
+
+! 2021/3/6 上午9:24:37 https://baike.baidu.com/item/%E6%9F%B3%E6%B0%B8/121272
+baike.baidu.com##.J-secondsknow-large-container.secondsknow-large-container
+
+! 2021/3/9下午3:05:02 https://wenku.baidu.com/view/ac79546b580102020740be1e650e52ea5418ce52.html
+||edu-wenku.bdimg.com/v1/pc/pc-icon/voucher-pop-tip-bg.png$image
+
+! 2021/3/9下午3:05:10 https://wenku.baidu.com/view/ac79546b580102020740be1e650e52ea5418ce52.html
+wenku.baidu.com##.voucher-pop-tip
+
+! 2021/3/9下午3:07:42 https://wenku.baidu.com/view/8fb106636037ee06eff9aef8941ea76e59fa4a32.html
+wenku.baidu.com##.fold-page-btn > .join-vip.btn
+
+! 2021/3/9下午3:07:46 https://wenku.baidu.com/view/8fb106636037ee06eff9aef8941ea76e59fa4a32.html
+||wkstatic.bdimg.com/static/ndpcwenku/static/ndview/img/bg.6fb1d0a2a58a82349d7a46b2b275d192.png$image
+
+! 2021/3/9下午3:07:49 https://wenku.baidu.com/view/8fb106636037ee06eff9aef8941ea76e59fa4a32.html
+wenku.baidu.com##.tip-wrap
+
+! 2021/3/9下午7:00:52 https://zhuanlan.zhihu.com/p/340089176
+zhuanlan.zhihu.com##.AdblockBanner
+
+! 2021/3/9下午10:37:08 https://www.huya.com/search?hsk=430
+www.huya.com###hot-search-wrap
+
+! 2021/3/9下午10:37:19 https://www.huya.com/search?hsk=430
+www.huya.com###advice-wrap
+
+! 2021/3/11下午7:25:26 https://www.cnblogs.com/songshuguiyu/p/9708463.html
+www.cnblogs.com###top_nav
+
+! 2021/3/11下午7:25:30 https://www.cnblogs.com/songshuguiyu/p/9708463.html
+||img2020.cnblogs.com/blog/1/202103/1-20210309211744338-647771178.jpg$image
+
+! 2021/3/11下午7:25:35 https://www.cnblogs.com/songshuguiyu/p/9708463.html
+||img2020.cnblogs.com/blog/35695/202103/35695-20210309211229118-1704756334.jpg$image
+
+! 2021/3/11下午7:25:40 https://www.cnblogs.com/songshuguiyu/p/9708463.html
+www.cnblogs.com##.forpc.aliyun.bannerbar > .forpc.aliyun.bannerbar
+
+! 2021/3/11下午7:25:43 https://www.cnblogs.com/songshuguiyu/p/9708463.html
+www.cnblogs.com##a[href^="https://developer.aliyun.com/learning/trainingcamp/sc/3"] > .forpc.aliyun.bannerbar
+
+! 2021/3/11下午8:14:57 https://cn.bing.com/search?q=undefined+reference+to&qs=AS&pq=undefined&sk=AS1&sc=8-9&cvid=061E571233BD401C965A7070A898C190&FORM=QBRE&sp=2
+cn.bing.com###ev_min_zo_img
+
+! 2021/3/11下午8:15:01 https://cn.bing.com/search?q=undefined+reference+to&qs=AS&pq=undefined&sk=AS1&sc=8-9&cvid=061E571233BD401C965A7070A898C190&FORM=QBRE&sp=2
+cn.bing.com###ev_talkbox_min
+
+! 2021/3/13下午6:49:01 https://wenku.baidu.com/view/20b0c47cd0f34693daef5ef7ba0d4a7303766c65.html
+wenku.baidu.com##.tips-content
+
+! 2021/3/13下午6:49:05 https://wenku.baidu.com/view/20b0c47cd0f34693daef5ef7ba0d4a7303766c65.html
+wenku.baidu.com##.tips
+
+! 2021/3/14下午2:21:58 http://c.biancheng.net/cpp/biancheng/view/201.html
+c.biancheng.net##.filler
+
+! 2021/3/14下午2:22:31 http://c.biancheng.net/cpp/biancheng/view/201.html
+c.biancheng.net###topbar
+
+! 2021/3/14下午2:22:35 http://c.biancheng.net/cpp/biancheng/view/201.html
+c.biancheng.net###topbar-wrap
+
+! 2021/3/14下午2:22:41 http://c.biancheng.net/cpp/biancheng/view/201.html
+c.biancheng.net###header_wrap
+
+! 2021/3/14下午2:22:47 http://c.biancheng.net/cpp/biancheng/view/201.html
+||c.biancheng.net/cpp/templets/new/images/icons_32.png$image
+
+! 2021/3/14下午2:22:53 http://c.biancheng.net/cpp/biancheng/view/201.html
+c.biancheng.net##.clearfix.art-info:nth-of-type(1)
+
+! 2021/3/14下午2:22:57 http://c.biancheng.net/cpp/biancheng/view/201.html
+c.biancheng.net###ad-arc-top-diy > p
+
+! 2021/3/14下午2:25:50 http://c.biancheng.net/view/7936.html
+c.biancheng.net##.text
+
+! 2021/3/14下午2:25:58 http://c.biancheng.net/view/7936.html
+c.biancheng.net###sidebar
+
+! 2021/3/14下午2:26:02 http://c.biancheng.net/view/7936.html
+c.biancheng.net###header
+
+! 2021/3/14下午2:47:05 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com##.wgt-common-nav
+
+! 2021/3/14下午2:47:24 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com##.box > .clearfix
+
+! 2021/3/14下午2:47:28 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com###top-search-box
+
+! 2021/3/14下午2:47:31 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com###bread-wrap
+
+! 2021/3/14下午2:47:35 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com###breadcrumb
+
+! 2021/3/14下午2:47:49 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com###usrbar
+
+! 2021/3/14下午2:47:54 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/common-jquery/widget/task-panel/img/entrance_031a81b.png$image
+
+! 2021/3/14下午2:48:01 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com##.wrp-exp-share
+
+! 2021/3/14下午2:48:13 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/thumbs/img/thumbs_bg_9572f6d.png$image
+
+! 2021/3/14下午2:48:17 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com##.clearfix.wgt-thumbs
+
+! 2021/3/14下午2:48:32 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com##.main-content-bottom
+
+! 2021/3/14下午2:48:43 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com##.prompt
+
+! 2021/3/14下午2:48:46 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com##.origin-notice.f12
+
+! 2021/3/14下午2:49:05 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/img-baidu-com/step_ico_bg_aa799a7.png$image
+
+! 2021/3/14下午2:49:09 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com###ico-group-3 > .list-icon-link:nth-of-type(4)
+
+! 2021/3/14下午2:49:17 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/img-baidu-com/step_ico_bg_aa799a7.png$image
+
+! 2021/3/14下午2:49:21 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com###ico-group-3 > .list-icon-link:nth-of-type(1)
+
+! 2021/3/14下午2:49:24 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/img-baidu-com/step_ico_bg_aa799a7.png$image
+
+! 2021/3/14下午2:49:29 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com###ico-group-3 > .list-icon-link:nth-of-type(2)
+
+! 2021/3/14下午2:49:32 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/img-baidu-com/step_ico_bg_aa799a7.png$image
+
+! 2021/3/14下午2:49:35 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com###ico-group-3 > .list-icon-link:nth-of-type(3)
+
+! 2021/3/14下午2:49:39 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/img-baidu-com/step_ico_bg_aa799a7.png$image
+
+! 2021/3/14下午2:49:42 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com###ico-group-3 > .list-icon-link:nth-of-type(5)
+
+! 2021/3/14下午2:49:45 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/img-baidu-com/step_ico_bg_aa799a7.png$image
+
+! 2021/3/14下午2:49:50 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com###ico-group-3 > .list-icon-link:nth-of-type(6)
+
+! 2021/3/14下午2:49:54 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/img-baidu-com/step_ico_bg_aa799a7.png$image
+
+! 2021/3/14下午2:49:58 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com##.list-icon-current.list-icon-link
+
+! 2021/3/14下午2:50:18 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/top-nav-bar/img/top-nav-bg_a47c4ce.png$image
+
+! 2021/3/14下午2:50:22 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/top-nav-bar/img/sprite_2c05b61.png$image
+
+! 2021/3/14下午2:50:25 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com##.top-uname
+
+! 2021/3/14下午2:50:28 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/top-nav-bar/img/sprite_2c05b61.png$image
+
+! 2021/3/14下午2:50:32 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/article/widget/top-nav-bar/img/sprite_2c05b61.png$image
+
+! 2021/3/14下午2:50:39 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+jingyan.baidu.com##.container2
+
+! 2021/3/14下午2:51:06 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/common-jquery/widget/task-panel/img/entrance_031a81b.png$image
+
+! 2021/3/14下午2:51:14 https://jingyan.baidu.com/article/915fc4143bed3d11384b2036.html
+||exp.bdstatic.com/static/exp-pc/common-jquery/widget/task-panel/img/entrance_031a81b.png$image
+
+! 2021/3/14下午8:15:17 http://c.biancheng.net/cpp/biancheng/view/201.html
+c.biancheng.net###ad-bottom-weixin
+
+! 2021/3/14下午8:15:21 http://c.biancheng.net/cpp/biancheng/view/201.html
+c.biancheng.net###ad-arc-bottom-diy > div > p
+
+! 2021/3/14下午8:15:25 http://c.biancheng.net/cpp/biancheng/view/201.html
+c.biancheng.net###ad-arc-bottom-diy > div
+
+! 2021/3/14下午8:15:32 http://c.biancheng.net/cpp/biancheng/view/201.html
+c.biancheng.net###footer-wrap
+
+! 2021/3/14下午8:15:36 http://c.biancheng.net/cpp/biancheng/view/201.html
+c.biancheng.net##.clearfix.art-info:nth-of-type(6)
+
+! 2021/3/16下午6:19:07 https://bh.sb/
+bh.sb##.widget_links.widget > .title
+
+! 2021/3/16下午6:19:10 https://bh.sb/
+bh.sb##a[href="https://qingniantuzhai.com/"]
+
+! 2021/3/16下午6:19:55 https://bh.sb/
+||cdn.rsb.net/bh.sb/themes/xiu/images/logo.png$image
+
+! 2021/3/16下午6:19:59 https://bh.sb/
+bh.sb##.logo > a[href="https://bh.sb"]
+
+! 2021/3/16下午6:20:04 https://bh.sb/
+bh.sb###menu-item-1643 > a[href="https://bh.sb/about/"]
+
+! 2021/3/16下午6:20:10 https://bh.sb/
+bh.sb##a[href="https://bh.sb/contact/"]
+
+! 2021/3/16下午6:20:15 https://bh.sb/
+bh.sb##a[href="https://bh.sb/post/category/main/"]
+
+! 2021/3/16下午6:20:18 https://bh.sb/
+bh.sb##a[href="https://bh.sb/luobo-closed/"]
+
+! 2021/3/16下午6:20:25 https://bh.sb/
+bh.sb##.feeds
+
+! 2021/3/16下午6:20:29 https://bh.sb/
+bh.sb##a[href="https://sb.sb/"]
+
+! 2021/3/16下午6:20:56 https://bh.sb/
+bh.sb##a[href="https://zhuji.com/"]
+
+! 2021/3/16下午6:21:00 https://bh.sb/
+bh.sb##.slinks
+
+! 2021/3/21下午12:39:29 https://blog.csdn.net/s_lisheng/article/details/103968891
+blog.csdn.net##.prettyprint:nth-of-type(3) > .has-numbering.language-c.prism > .signin.hljs-button
+
+! 2021/3/25下午12:52:55 https://www.sohu.com/a/391582568_659240
+www.sohu.com###hot-news
+
+! 2021/3/25下午12:53:05 https://www.sohu.com/a/391582568_659240
+www.sohu.com###float-btn > ul
+
+! 2021/3/25下午12:53:13 https://www.sohu.com/a/391582568_659240
+www.sohu.com###main-header
+
+! 2021/3/25下午12:53:26 https://www.sohu.com/a/391582568_659240
+www.sohu.com###article-do
+
+! 2021/3/25下午7:41:30 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+||img.zuoyebang.cc/zyb_81eb71b6bb2ad474a2a74957ebc8f7e3.png$image
+
+! 2021/3/25下午7:41:33 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+||img.zuoyebang.cc/zyb_72b69ab796f577462ea32b300c2b0666.jpg$image
+
+! 2021/3/25下午7:41:37 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+||yy-s.zuoyebang.cc/static/question/widget/qrcodeProxy/resource/images/QRCode-qbpc170117-B_fdb565f.png$image
+
+! 2021/3/25下午7:41:45 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com###QRinside > p
+
+! 2021/3/25下午7:41:48 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com###QRinside > h3
+
+! 2021/3/25下午7:41:57 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com##.nobefore.qb_wgt-question.card > dd > .ext-info > .wgt-report
+
+! 2021/3/25下午7:42:01 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com###bottomTextLink
+
+! 2021/3/25下午7:42:06 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com##.qb_wgt-navbar > .layout
+
+! 2021/3/25下午7:42:09 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com##.qb_wgt-navbar
+
+! 2021/3/25下午7:42:13 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com##.qb_wgt_topbar > .layout
+
+! 2021/3/25下午7:42:16 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com##.qb_wgt_topbar
+
+! 2021/3/25下午7:42:22 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com###rightAsideBannerFlow
+
+! 2021/3/25下午7:42:44 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com##.go-top
+
+! 2021/3/25下午7:42:52 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com##.related-question.related.card
+
+! 2021/3/25下午7:42:59 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com###good-answer > dd > .ext-info
+
+! 2021/3/25下午7:43:03 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com##.wgt-footer > span
+
+! 2021/3/25下午7:43:07 https://www.zybang.com/question/d3b1ee74d084d75588fe7ae7d65b6638.html
+www.zybang.com##.gray-link
+
+! 2021/4/2下午8:21:26 https://mp.weixin.qq.com/s/d1ng1-AFFdPGLWDXVKPJZg
+mp.weixin.qq.com##.qr_code_pc
+
+! 2021/4/2下午9:28:28 https://www.huya.com/430430
+www.huya.com###matchComponent8
+
+! 2021/4/2下午9:28:38 https://www.huya.com/430430
+www.huya.com###matchComponent10 > .J_un_race.diy-multi-picture > .J_hot.hot-wrap
+
+! 2021/4/2下午9:28:43 https://www.huya.com/430430
+||zt.msstatic.com/zt/img/21/03/24/161657530069050075738.png$image
+
+! 2021/4/2下午9:28:47 https://www.huya.com/430430
+www.huya.com###matchComponent10 > .J_un_race.diy-multi-picture
+
+! 2021/4/2下午9:28:55 https://www.huya.com/430430
+www.huya.com###matchComponent11
+
+! 2021/4/2下午9:28:59 https://www.huya.com/430430
+||zt.msstatic.com/zt/img/21/04/02/161734764931950075738.png$image
+
+! 2021/4/2下午9:29:04 https://www.huya.com/430430
+www.huya.com###matchComponent12
+
+! 2021/4/2下午9:29:11 https://www.huya.com/430430
+www.huya.com###matchComponent13
+
+! 2021/4/2下午9:29:16 https://www.huya.com/430430
+www.huya.com##.J_tab_handler.tabs-handler
+
+! 2021/4/2下午9:29:19 https://www.huya.com/430430
+www.huya.com###matchComponent10
+
+! 2021/4/2下午9:29:22 https://www.huya.com/430430
+www.huya.com##.diy-comps-wrap
+
+! 2021/4/2下午9:29:35 https://www.huya.com/430430
+www.huya.com##.on.in_room_without_title.competition_v2
+
+! 2021/4/2下午9:29:46 https://www.huya.com/430430
+www.huya.com##.match-nav
+
+! 2021/4/5下午1:44:55 https://www.w3cschool.cn/electronmanual/wcx31ql6.html
+www.w3cschool.cn##.widget-main
+
+! 2021/4/5下午1:44:59 https://www.w3cschool.cn/electronmanual/wcx31ql6.html
+www.w3cschool.cn##.feedback-btn-gray.feedback-btn:nth-of-type(1)
+
+! 2021/4/5下午1:45:02 https://www.w3cschool.cn/electronmanual/wcx31ql6.html
+||atts.w3cschool.cn/attachments/image/20201120/1605859745864647.png$image
+
+! 2021/4/5下午1:45:05 https://www.w3cschool.cn/electronmanual/wcx31ql6.html
+www.w3cschool.cn##.close-rfbox > .i-icon-close-thin.i-icon-close.i-icon
+
+! 2021/4/5下午1:45:31 https://www.w3cschool.cn/electronmanual/wcx31ql6.html
+www.w3cschool.cn##.icon-chevron-right
+
+! 2021/4/5下午1:46:31 https://www.w3cschool.cn/electronmanual/wcx31ql6.html
+||7n.w3cschool.cn/statics/images/sprite/toolbar.png$image
+
+! 2021/4/5下午3:25:06 https://www.jianshu.com/p/1d9565a29828
+www.jianshu.com##._2oDcyf
+
+! 2021/4/5下午3:25:09 https://www.jianshu.com/p/1d9565a29828
+www.jianshu.com##.VYwngI
+
+! 2021/4/5下午3:25:16 https://www.jianshu.com/p/1d9565a29828
+www.jianshu.com##._2OwGUo
+
+! 2021/4/5下午3:25:25 https://www.jianshu.com/p/1d9565a29828
+www.jianshu.com##._3Pnjry
+
+! 2021/4/5下午3:25:29 https://www.jianshu.com/p/1d9565a29828
+www.jianshu.com##._1Jdfvb
+
+! 2021/4/9下午9:00:39 https://www.huya.com/430430
+www.huya.com##.room-sidebar
+
+! 2021/4/9下午9:02:17 https://www.huya.com/430430
+www.huya.com##.room-core-r
+
+! 2021/4/10下午10:36:24 https://www.cnblogs.com/jiamian/p/10624992.html
+www.cnblogs.com###live2d
+
+! 2021/4/11下午9:09:19 https://www.huya.com/430430
+www.huya.com###player-gift-wrap
+
+! 2021/4/17下午7:05:27 http://www.zglww.net/gclw/gongchenglunlilunwen/
+||tu2.oss-cn-beijing.aliyuncs.com/2.jpg$image
+
+! 2021/4/17下午7:05:30 http://www.zglww.net/gclw/gongchenglunlilunwen/
+||chafa.oss-cn-beijing.aliyuncs.com/jdcfl.png$image
+
+! 2021/4/17下午7:05:37 http://www.zglww.net/gclw/gongchenglunlilunwen/
+www.zglww.net##.more.r-c
+
+! 2021/4/17下午7:05:49 http://www.zglww.net/gclw/gongchenglunlilunwen/
+www.zglww.net##.tool
+
+! 2021/4/17下午7:42:06 https://www.fanwen99.cn/article/6057583.html
+||i.zuciwang.com/css/300.jpg$image
+
+! 2021/4/17下午7:42:09 https://www.fanwen99.cn/article/6057583.html
+www.fanwen99.cn##.dd300:nth-of-type(3)
+
+! 2021/4/17下午7:42:18 https://www.fanwen99.cn/article/6057583.html
+www.fanwen99.cn###hd2 > .key-list-left
+
+! 2021/4/17下午7:42:21 https://www.fanwen99.cn/article/6057583.html
+www.fanwen99.cn###left
+
+! 2021/4/17下午7:42:25 https://www.fanwen99.cn/article/6057583.html
+www.fanwen99.cn##.inner
+
+! 2021/4/17下午7:42:29 https://www.fanwen99.cn/article/6057583.html
+www.fanwen99.cn###header
+
+! 2021/4/17下午7:42:32 https://www.fanwen99.cn/article/6057583.html
+www.fanwen99.cn###right > .key-list-left
+
+! 2021/4/17下午7:42:39 https://www.fanwen99.cn/article/6057583.html
+www.fanwen99.cn###fullDD > div:nth-of-type(2)
+
+! 2021/4/17下午7:42:50 https://www.wenku1.net/news/589299002FEC85EC.html
+www.wenku1.net###hd2 > .key-list-left
+
+! 2021/4/17下午7:42:53 https://www.wenku1.net/news/589299002FEC85EC.html
+www.wenku1.net##.dd300:nth-of-type(3)
+
+! 2021/4/17下午7:42:58 https://www.wenku1.net/news/589299002FEC85EC.html
+www.wenku1.net###fullDD > div:nth-of-type(2)
+
+! 2021/4/17下午7:43:02 https://www.wenku1.net/news/589299002FEC85EC.html
+www.wenku1.net##.clearfix.wrap
+
+! 2021/4/17下午7:43:05 https://www.wenku1.net/news/589299002FEC85EC.html
+www.wenku1.net###header
+
+! 2021/4/17下午7:43:10 https://www.wenku1.net/news/589299002FEC85EC.html
+www.wenku1.net###left
+
+! 2021/4/17下午7:43:20 https://www.wenku1.net/news/589299002FEC85EC.html
+www.wenku1.net###right > .key-list-left
+
+! 2021/5/1下午1:05:44 https://www.google.com/
+www.google.com##.SSwjIe.KxwPGc
+
+! 2021/5/1下午1:05:48 https://www.google.com/
+www.google.com##.uU7dJb
+
+! 2021/5/1下午5:35:36 https://www.bilibili.com/video/av710215994/
+www.bilibili.com##.r-con
+
+! 2021/5/1下午7:54:44 https://user.qzone.qq.com/1392153924?source=panelstar
+user.qzone.qq.com###divTopTipsFriendlist
+
+! 2021/5/1下午9:26:47 https://guoxue.baike.so.com/query/view?id=16337ac368e87682270331c52566f4bb&type=poem
+guoxue.baike.so.com###J-entry-newsfeed-bottom
+
+! 2021/5/1下午9:26:54 https://guoxue.baike.so.com/query/view?id=16337ac368e87682270331c52566f4bb&type=poem
+guoxue.baike.so.com##.newsfeed-popup-details
+
+! 2021/5/1下午9:26:58 https://guoxue.baike.so.com/query/view?id=16337ac368e87682270331c52566f4bb&type=poem
+guoxue.baike.so.com##.js-newsfeed-popup.newsfeed-popup
+
+! 2021/5/1下午9:27:04 https://guoxue.baike.so.com/query/view?id=16337ac368e87682270331c52566f4bb&type=poem
+guoxue.baike.so.com##.right
+
+! 2021/5/1下午9:27:16 https://guoxue.baike.so.com/query/view?id=16337ac368e87682270331c52566f4bb&type=poem
+guoxue.baike.so.com###nav > .wrap
+
+! 2021/5/1下午9:27:24 https://guoxue.baike.so.com/query/view?id=16337ac368e87682270331c52566f4bb&type=poem
+guoxue.baike.so.com###header
+
+! 2021/5/1下午9:27:27 https://guoxue.baike.so.com/query/view?id=16337ac368e87682270331c52566f4bb&type=poem
+guoxue.baike.so.com###g-hd-inner
+
+! 2021/5/1下午9:27:46 https://guoxue.baike.so.com/query/view?id=16337ac368e87682270331c52566f4bb&type=poem
+guoxue.baike.so.com###footer
+
+! 2021/5/1下午9:27:50 https://guoxue.baike.so.com/query/view?id=16337ac368e87682270331c52566f4bb&type=poem
+guoxue.baike.so.com##.mod-select.header
+
+! 2021/5/9下午9:21:09 https://www.docin.com/p-73606057.html
+www.docin.com##.doc_hd_mini
+
+! 2021/5/9下午9:21:16 https://www.docin.com/p-73606057.html
+www.docin.com##.wd100.docin_reader_tools
+
+! 2021/5/9下午9:21:30 https://www.docin.com/p-73606057.html
+www.docin.com##.clear.page_crubms
+
+! 2021/5/9下午9:21:41 https://www.docin.com/p-73606057.html
+www.docin.com##.asideWrap
+
+! 2021/5/9下午9:22:22 https://www.docin.com/p-73606057.html
+||st.douding.cn/images_cn/goback/rightbar_erweima.svg$image
+
+! 2021/5/9下午9:22:25 https://www.docin.com/p-73606057.html
+||st.douding.cn/images_cn/goback/rightbar_fankui.svg$image
+
+! 2021/5/9下午9:22:28 https://www.docin.com/p-73606057.html
+www.docin.com##.advice > .t
+
+! 2021/5/9下午9:22:31 https://www.docin.com/p-73606057.html
+www.docin.com##.docinDownApp > .t
+
+! 2021/5/9下午9:22:33 https://www.docin.com/p-73606057.html
+www.docin.com##.docinWX > .t
+
+! 2021/5/9下午9:22:36 https://www.docin.com/p-73606057.html
+||st.douding.cn/images_cn/goback/rightbar_qq.svg$image
+
+! 2021/5/9下午9:22:38 https://www.docin.com/p-73606057.html
+www.docin.com##.connectOnline > .t
+
+! 2021/5/9下午9:22:41 https://www.docin.com/p-73606057.html
+||st.douding.cn/images_cn/goback/rightbar_weixin.svg$image
+
+! 2021/5/9下午9:22:44 https://www.docin.com/p-73606057.html
+www.docin.com##.advice
+
+! 2021/5/9下午9:22:48 https://www.docin.com/p-73606057.html
+www.docin.com##.docinWX
+
+! 2021/5/9下午9:22:51 https://www.docin.com/p-73606057.html
+www.docin.com##.connectOnline
+
+! 2021/5/9下午9:22:54 https://www.docin.com/p-73606057.html
+www.docin.com##.docinDownApp
+
+! 2021/5/9下午9:22:59 https://www.docin.com/p-73606057.html
+www.docin.com##.backToTop
+
+! 2021/5/9下午9:23:06 https://www.docin.com/p-73606057.html
+||st.douding.cn/images_cn/share_icons_16.png$image
+
+! 2021/5/9下午9:23:11 https://www.docin.com/p-73606057.html
+www.docin.com##.bdshare-slide-top
+
+! 2021/5/14下午9:59:39 https://user.qzone.qq.com/1392153924?source=panelstar
+user.qzone.qq.com###QZ_Toolbar_Container
+
+! 2021/5/14下午9:59:43 https://user.qzone.qq.com/1392153924?source=panelstar
+user.qzone.qq.com##.top-fix-inner
+
+! 2021/5/24下午7:40:50 http://www.qstheory.cn/dukan/hqwg/2021-01/25/c_1127023006.htm
+www.qstheory.cn##.xl_top
+
+! 2021/6/2下午4:23:44 http://www.ykmh.com/manhua/bilanzhihai/62685.html
+www.ykmh.com##.independNav.mainNav
+
+! 2021/6/2下午4:23:57 http://www.ykmh.com/manhua/bilanzhihai/62685.html
+||www.ykmh.com/assets/91b79a01/images/side_ico.png$image
+
+! 2021/6/2下午4:33:49 http://www.ykmh.com/manhua/bilanzhihai/62685.html
+www.ykmh.com##.autoHeight.comic_last
+
+! 2021/6/2下午4:33:52 http://www.ykmh.com/manhua/bilanzhihai/62685.html
+www.ykmh.com##.foot-detail-wrap
+
+! 2021/6/2下午4:33:55 http://www.ykmh.com/manhua/bilanzhihai/62685.html
+www.ykmh.com##.foot-detail
+
+! 2021/6/2下午4:34:00 http://www.ykmh.com/manhua/bilanzhihai/62685.html
+www.ykmh.com##.clearfix.panel-title
+
+! 2021/6/2下午4:34:03 http://www.ykmh.com/manhua/bilanzhihai/62685.html
+www.ykmh.com##.clearfix.panel-body
+
+! 2021/6/3下午9:01:57 https://wenku.baidu.com/view/6befc5eff08583d049649b6648d7c1c709a10b87.html
+wenku.baidu.com##.relative-recommend-wrapper
+
+! 2021/6/3下午9:02:01 https://wenku.baidu.com/view/6befc5eff08583d049649b6648d7c1c709a10b87.html
+wenku.baidu.com##.comment-wrapper
+
+! 2021/6/3下午9:02:10 https://wenku.baidu.com/view/6befc5eff08583d049649b6648d7c1c709a10b87.html
+wenku.baidu.com##.static.tool-bar-wrapper
+
+! 2021/6/3下午9:02:20 https://wenku.baidu.com/view/6befc5eff08583d049649b6648d7c1c709a10b87.html
+||wkstatic.bdimg.com/static/ndpcwenku/static/ndview/img/bq_icon.c154b1180cbc41012d1c1f307e549dcf.png$image
+
+! 2021/6/3下午9:02:24 https://wenku.baidu.com/view/6befc5eff08583d049649b6648d7c1c709a10b87.html
+wenku.baidu.com##.copyright-wrap
+
+! 2021/6/13下午7:02:00 https://www.huya.com/search?hsk=430
+www.huya.com##.huya-footer__bd
+
+! 2021/6/13下午7:02:06 https://www.huya.com/search?hsk=430
+www.huya.com##.huya-footer
+
+! 2021/6/13下午7:02:15 https://www.huya.com/search?hsk=430
+www.huya.com##.clearfix.duya-header-wrap
+
+! 2021/6/13下午7:04:36 https://www.shuquge.com/txt/8659/38221072.html
+www.shuquge.com##.content > div:nth-of-type(2)
+
+! 2021/6/13下午7:04:41 https://www.shuquge.com/txt/8659/38221072.html
+www.shuquge.com##.content > .link
+
+! 2021/6/17下午4:12:35 https://wenku.baidu.com/view/1d34cefb580216fc710afd72.html
+wenku.baidu.com##.button > p
+
+! 2021/6/19下午7:37:56 https://blog.csdn.net/weixin_30343157/article/details/97236113
+blog.csdn.net###csdn-shop-window-top > .csdn-shop-window-pc.csdn-shop-window
+
+! 2021/6/20上午10:24:47 https://www.jianshe99.com/lunwen/gongchengjishu/zh2014040914123360630031.shtml
+www.jianshe99.com##.navItem
+
+! 2021/6/20上午10:24:59 https://www.jianshe99.com/lunwen/gongchengjishu/zh2014040914123360630031.shtml
+www.jianshe99.com##.navPub
+
+! 2021/6/20上午10:25:03 https://www.jianshe99.com/lunwen/gongchengjishu/zh2014040914123360630031.shtml
+||www.jianshe99.com/upload/html/2016/08/09/yae7e486d48d8d4d83a7f89b17476ca11d.png$image
+
+! 2021/6/20上午10:25:14 https://www.jianshe99.com/lunwen/gongchengjishu/zh2014040914123360630031.shtml
+www.jianshe99.com##.solid.gg.floor > .solid.gg.floor
+
+! 2021/6/20上午10:25:24 https://www.jianshe99.com/lunwen/gongchengjishu/zh2014040914123360630031.shtml
+www.jianshe99.com##.r
+
+! 2021/6/20上午10:25:34 https://www.jianshe99.com/lunwen/gongchengjishu/zh2014040914123360630031.shtml
+www.jianshe99.com##.clearfix.layout.header-top-in
+
+! 2021/6/20上午10:25:42 https://www.jianshe99.com/lunwen/gongchengjishu/zh2014040914123360630031.shtml
+||www.jianshe99.com/copyright/js/footer_no.shtml$subdocument
+
+! 2021/6/20上午11:38:05 https://www.bkw.cn/clyks1/ask/5738094.html
+www.bkw.cn##.bkw_header
+
+! 2021/6/20上午11:38:13 https://www.bkw.cn/clyks1/ask/5738094.html
+||attachment.cnbkw.com/bkwimg/up/202005/2020052816125306779.jpg$image
+
+! 2021/6/20上午11:38:24 https://www.bkw.cn/clyks1/ask/5738094.html
+www.bkw.cn##.head_linktab
+
+! 2021/6/20上午11:38:32 https://www.bkw.cn/clyks1/ask/5738094.html
+www.bkw.cn##.data_down_ul
+
+! 2021/6/20下午3:20:41 https://blog.csdn.net/weixin_39657521/article/details/111586131
+blog.csdn.net###csdn-shop-window
+
+! 2021/6/26上午11:09:52 https://www.bing.com/search?q=miktex%E6%9B%B4%E6%96%B0%E5%A4%B1%E8%B4%A5&qs=n&form=QBRE&sp=-1&pq=miktex%E6%9B%B4%E6%96%B0shi%27ba&sc=0-14&sk=&cvid=E33A0C0F5BAD47A2BFB4059968FB8525
+www.bing.com###b_context > .b_ans
+
+! 2021/6/30下午5:52:25 https://new.qq.com/omn/20210415/20210415A051RR00.html
+new.qq.com##.qq_navWrap
+
+! 2021/6/30下午5:52:39 https://new.qq.com/omn/20210415/20210415A051RR00.html
+new.qq.com##.cms-bar > .clearfix.bar-tit
+
+! 2021/6/30下午5:52:45 https://new.qq.com/omn/20210415/20210415A051RR00.html
+new.qq.com###txplayer_e75f09a89cc017028a3a9acd451f204c > txpdiv:nth-of-type(6)
+
+! 2021/6/30下午5:52:48 https://new.qq.com/omn/20210415/20210415A051RR00.html
+||vpic.video.qq.com/-34869496/a3256h32ccd.png$image
+
+! 2021/6/30下午5:52:51 https://new.qq.com/omn/20210415/20210415A051RR00.html
+new.qq.com##.txp_poster
+
+! 2021/6/30下午5:52:59 https://new.qq.com/omn/20210415/20210415A051RR00.html
+new.qq.com##.txp_shadow
+
+! 2021/6/30下午5:53:02 https://new.qq.com/omn/20210415/20210415A051RR00.html
+new.qq.com##.txp_video_container > video:nth-of-type(1)
+
+! 2021/6/30下午5:53:05 https://new.qq.com/omn/20210415/20210415A051RR00.html
+new.qq.com##.txp_video_container
+
+! 2021/7/12下午12:06:31 http://www.lvyestudy.com/html/frontend-intro
+www.lvyestudy.com##.dir
+
+! 2021/7/12下午12:06:34 http://www.lvyestudy.com/html/frontend-intro
+www.lvyestudy.com##canvas
+
+! 2021/7/12下午12:06:37 http://www.lvyestudy.com/html/frontend-intro
+www.lvyestudy.com##.desc > strong
+
+! 2021/7/12下午12:06:41 http://www.lvyestudy.com/html/frontend-intro
+www.lvyestudy.com##.desc > p
+
+! 2021/7/12下午12:06:44 http://www.lvyestudy.com/html/frontend-intro
+www.lvyestudy.com##.advise.column > .content
+
+! 2021/7/12下午12:06:47 http://www.lvyestudy.com/html/frontend-intro
+||www.lvyestudy.com/img/column1.jpg$image
+
+! 2021/7/12下午12:06:50 http://www.lvyestudy.com/html/frontend-intro
+www.lvyestudy.com##.join.column > .content
+
+! 2021/7/12下午12:06:52 http://www.lvyestudy.com/html/frontend-intro
+||www.lvyestudy.com/img/column2.jpg$image
+
+! 2021/7/12下午12:06:56 http://www.lvyestudy.com/html/frontend-intro
+www.lvyestudy.com##.desc
+
+! 2021/7/12下午12:06:59 http://www.lvyestudy.com/html/frontend-intro
+www.lvyestudy.com##.advise.column
+
+! 2021/7/12下午12:07:02 http://www.lvyestudy.com/html/frontend-intro
+www.lvyestudy.com##.join.column
+
+! 2021/7/14下午5:44:48 https://new.qq.com/omn/20190829/20190829A08LTI00.html
+new.qq.com##.hot-choice-bar
+
+! 2021/7/14下午5:44:51 https://new.qq.com/omn/20190829/20190829A08LTI00.html
+||mat1.gtimg.com/rain/apub2019/9d9ecb89f572.hongbao_foot_02.png$image
+
+! 2021/7/14下午5:44:55 https://new.qq.com/omn/20190829/20190829A08LTI00.html
+new.qq.com##.fixed-bar
+
+! 2021/7/14下午5:45:06 https://new.qq.com/omn/20190829/20190829A08LTI00.html
+new.qq.com##.bar-con > .clearfix
+
+! 2021/7/17下午2:55:35 http://www.jianlaixiaoshuo.com/book/6265.html
+www.jianlaixiaoshuo.com###topbar
+
+! 2021/7/17下午2:55:47 http://www.jianlaixiaoshuo.com/book/6265.html
+www.jianlaixiaoshuo.com##.bookset
+
+! 2021/7/17下午2:55:50 http://www.jianlaixiaoshuo.com/book/6265.html
+www.jianlaixiaoshuo.com##.xb.link
+
+! 2021/8/7 下午9:54:57 https://www.52bqg.net/book_45912/52257085.html
+||www.52bqg.net/biquge/images/vote.png$image
+
+! 2021/8/7 下午9:55:00 https://www.52bqg.net/book_45912/52257085.html
+||www.52bqg.net/biquge/images/vote.png$image
+
+! 2021/8/18 下午4:23:24 https://cn.bing.com/search?q=%e7%9f%a5%e4%b9%8e%e7%94%b5%e8%84%91%e7%89%88%e5%ae%98%e7%bd%91&FORM=R5FD
+cn.bing.com###ev_hook
+
+! 2021/8/23 下午4:28:09 https://b.julym.com/original/1042.html
+b.julym.com###live2d
+
+! 2021/8/23 下午4:28:19 https://b.julym.com/original/1042.html
+||api.ncii.cn/163/getpic.php?id=1807828$image
+
+! 2021/8/23 下午4:28:22 https://b.julym.com/original/1042.html
+b.julym.com##.aplayer-pic
+
+! 2021/8/23 下午4:28:26 https://b.julym.com/original/1042.html
+b.julym.com##.aplayer-miniswitcher > .aplayer-icon > svg
+
+! 2021/8/23 下午4:28:30 https://b.julym.com/original/1042.html
+b.julym.com##.aplayer-miniswitcher > .aplayer-icon
+
+! 2021/8/23 下午4:28:34 https://b.julym.com/original/1042.html
+b.julym.com##.aplayer-miniswitcher
+
+! 2021/8/23 下午4:28:37 https://b.julym.com/original/1042.html
+b.julym.com##.aplayer-body
+
+! 2021/8/24 下午7:53:34 https://live.bilibili.com/22634198?from=search&seid=8041965750470065746
+live.bilibili.com##.haruna-canvas
+
+! 2021/8/25 下午5:01:04 https://www.liaoxuefeng.com/wiki/1016959663602400/1183249464292448
+www.liaoxuefeng.com###x-sidebar-left-bottom
+
+! 2021/8/25 下午5:01:51 https://www.liaoxuefeng.com/wiki/1016959663602400/1183249464292448
+www.liaoxuefeng.com###x-content > p:nth-of-type(1)
